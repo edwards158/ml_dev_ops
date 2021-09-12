@@ -12,13 +12,11 @@ in a production-level environment.  Objectives:
 
 ## Course 1
 
-### Introduction to Deep Learning
+### Clean Code Principles
+Develop skills that are essential for deploying production machine learning models. First, you will put your coding best practices on autopilot by learning how to use PyLint and AutoPEP8. Then you will further expand your Git and Github skills to work with teams. Finally, you will learn best practices associated with testing and logging used in production settings to ensure your models can stand the test of time.
 
-Introduce yourself to deep learning by applying style transfer to your own images, and gaining experience
-using development tools such as Anaconda and Jupyter notebooks.
-
-### Course Project: [Build a Neural Network](https://github.com/riched158/deep-nano/blob/main/Neural_Nets/Sentiment_Classification_Projects.ipynb) &nbsp;
-Build and train your own Neural Network.
+### Course Project: [Predict Customer Churn with Clean Code](https://github.com/riched158/deep-nano/blob/main/Neural_Nets/Sentiment_Classification_Projects.ipynb) &nbsp;
+Identify credit card customers most likely to churn. The completed project will include a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented and tested).
 
 
 

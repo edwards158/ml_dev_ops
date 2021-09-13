@@ -1,4 +1,4 @@
-# [Machine Learning DevOps NanoDegree]
+# Machine Learning DevOps NanoDegree
 
 This repository contains some my work from the Machine Learning DevOps Nanodegree.
 The Machine Learning DevOps Engineer Nanodegree program focuses on the software engineering

@@ -15,7 +15,7 @@ in a production-level environment.  Objectives:
 ### Clean Code Principles
 Develop skills that are essential for deploying production machine learning models. First, you will put your coding best practices on autopilot by learning how to use PyLint and AutoPEP8. Then you will further expand your Git and Github skills to work with teams. Finally, you will learn best practices associated with testing and logging used in production settings to ensure your models can stand the test of time.
 
-### Course Project: [Predict Customer Churn with Clean Code](https://github.com/riched158/deep-nano/blob/main/project-bike-sharing/Predicting_bike_sharing_data.ipynb) &nbsp;
+### Course Project: [Predict Customer Churn with Clean Code](https://github.com/edwards158/ml_dev_ops/tree/main/proj-customer-churn-clean-code) &nbsp;
 Identify credit card customers most likely to churn. The completed project will include a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented and tested).
 
 

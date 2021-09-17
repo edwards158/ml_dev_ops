@@ -1,0 +1,21 @@
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Encoded dataframe fixture creation: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Encoded dataframe fixture creation: SUCCESS
+root - INFO - Feature sequence fixture creation: SUCCESS
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Encoded dataframe fixture creation: SUCCESS
+root - INFO - Feature sequence fixture creation: SUCCESS
+root - INFO - Testing testing_models: SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS

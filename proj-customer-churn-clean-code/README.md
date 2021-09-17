@@ -4,7 +4,7 @@
 
 ## Project Description
 This project deals with the refactoring of a notebook churn_notebook.py, this notebook calculates
-like customer churn from a kaggle dataset.  The completed project will include a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented, and tested). The package will also have the flexibility of being run interactively or from the command-line interface (CLI) 
+likey customer churn from a kaggle dataset.  The completed project will include a Python package for a machine learning project that follows coding (PEP8) and engineering best practices for implementing software (modular, documented, and tested). The package will also have the flexibility of being run interactively or from the command-line interface (CLI) 
 
 
 ## Running Files

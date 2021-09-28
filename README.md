@@ -21,7 +21,12 @@ Identify credit card customers most likely to churn. The completed project will 
 ## Course 2
 
 ### Building a Reproducible Model Workflow
-This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to: a) create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow b) clean and validate the data using pytest c) track experiments, code, and results using GitHub and Weights & Biases d) select the best-performing model for production and e) deploy a model using MLflow.
+This course empowers the students to be more efficient, effective, and productive in modern, real-world ML projects by adopting best practices around reproducible workflows. In particular, it teaches the fundamentals of MLops and how to:
+- create a clean, organized, reproducible, end-to-end machine learning pipeline from scratch using MLflow
+- clean and validate the data using pytest 
+- track experiments, code, and results using GitHub and Weights & Biases
+- select the best-performing model for production
+- deploy a model using MLflow.
 
 ### Course Project: [Build ML Pipeline](https://github.com/edwards158/nd0821-c2-build-model-workflow-starter) &nbsp;
 Write a Machine Learning Pipeline to solve the following problem: a property management in New York needs to estimate the typical price for a given property based on the price of similar properties. The company receives new data in bulk every week, so the model needs to be retrained with the same cadence, necessitating a reusable pipeline. Write an end-to-end pipeline covering data fetching, validation, segregation, train and validation, test, and release. Run it on an initial data sample, then re-run it on a new data sample simulating a new data delivery.

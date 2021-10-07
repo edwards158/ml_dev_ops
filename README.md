@@ -31,9 +31,20 @@ This course empowers the students to be more efficient, effective, and productiv
 ### Course Project: [Build ML Pipeline](https://github.com/edwards158/nd0821-c2-build-model-workflow-starter) &nbsp;
 Write a Machine Learning Pipeline to solve the following problem: a property management in New York needs to estimate the typical price for a given property based on the price of similar properties. The company receives new data in bulk every week, so the model needs to be retrained with the same cadence, necessitating a reusable pipeline. Write an end-to-end pipeline covering data fetching, validation, segregation, train and validation, test, and release. Run it on an initial data sample, then re-run it on a new data sample simulating a new data delivery.
 
+## Course 3
 
+### Building a Reproducible Model Workflow
+This course teaches students how to deploy a machine learning model into production. En route to that goal, students will learn how to put the finishing touches on a model by taking a fine-grained approach to model performance, checking bias and ultimately writing a model card. Students will also learn how to version control their data and models using Data Version Control (DVC). In the last piece of preparation for deployment, students will learn Continuous Integration and Continuous Deployment accomplished
+using GitHub Actions and Heroku. Finally, students will learn how to write a fast, type-checked and autodocumented API using FastAPI.
 
+Learning outcomes:
+- Performance Testing and Preparing a Model for Production
+- Data and Model Versioning
+- CI/CD
+- API Deployment with FastAPI
 
+### Course Project: [Deploying a Scalable ML Pipeline in Production](https://github.com/edwards158/fastapi-heroku) &nbsp;
+Deploy a machine learning model on Heroku. Use Git and DVC to track code, data and model while developing a simple classification model on the Census Income Data Set. After creating the model, the finalize the model for production by checking its performance on slices and writing a model card encapsulating key knowledge about the model. Implement a Continuous Integration and Continuous Deployment framework and ensure pipeline passes a series of unit tests before deployment. Lastly, an API will be written using FastAPI and tested locally. After successful deployment, the API will be tested live using the requests module.
 
 
 

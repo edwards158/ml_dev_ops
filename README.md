@@ -2,7 +2,7 @@
 
 This repository contains some my work from the Machine Learning DevOps Nanodegree.
 
-![Certificate](certif-2.jpg)
+![Certificate](devops_cert1.jpg)
 
 
 The Machine Learning DevOps Engineer Nanodegree program focuses on the software engineering

@@ -47,6 +47,21 @@ Learning outcomes:
 Deploy a machine learning model on Heroku. Use Git and DVC to track code, data and model while developing a simple classification model on the Census Income Data Set. After creating the model, the finalize the model for production by checking its performance on slices and writing a model card encapsulating key knowledge about the model. Implement a Continuous Integration and Continuous Deployment framework and ensure pipeline passes a series of unit tests before deployment. Lastly, an API will be written using FastAPI and tested locally. After successful deployment, the API will be tested live using the requests module.
 
 
+## Course 4
+
+### ML Model Scoring and Monitoring
+Automate the DevOps processes required to score and re-deploy ML models. After model deployment, set up regular scoring processes, learn to reason carefully about
+model drift, and whether models need to be retrained and re-deployed. Diagnose operational issues with models, including data integrity and stability problems, timing problems and dependency issues. Finally, set up automated reporting with APIs
+
+Learning outcomes:
+- Model Training and Deployment
+- Model Scoring and Model Drift
+- Diagnosing and Fixing Operational Problems
+- Model Reporting and Monitoring with APIs
+
+### Course Project: [Deploying a Scalable ML Pipeline in Production](https://github.com/edwards158/dynamic-risk-assessment) &nbsp;
+Make predictions about attrition risk in a fabricated dataset. Begin by setting up processes to ingest data and score, retrain and re-deploy ML models that predict attrition
+risk while writing scripts that automatically check for new data and model drift. Set up APIs that allow users to access model results, metrics and diagnostics. After completing this project, will have an end-to-end, automated ML project that performs risk assessments.
 
 
 

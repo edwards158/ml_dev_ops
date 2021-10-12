@@ -1,6 +1,10 @@
 # Machine Learning DevOps NanoDegree
 
 This repository contains some my work from the Machine Learning DevOps Nanodegree.
+
+![Certificate](certif-2.jpg)
+
+
 The Machine Learning DevOps Engineer Nanodegree program focuses on the software engineering
 fundamentals needed to successfully streamline the deployment of data and machine-learning models
 in a production-level environment.  Objectives:
